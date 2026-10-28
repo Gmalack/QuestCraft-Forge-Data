@@ -1,0 +1,12 @@
+{
+  "1.20.1": {
+    "coreMods": [
+      {
+        "slug": "vivecraft",
+        "version": "1.20.1-1.2.5-forge",
+        "download_link": "https://modrinth.com"
+      }
+    ],
+    "defaultMods": []
+  }
+}
